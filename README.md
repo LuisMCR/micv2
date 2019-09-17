@@ -1,3 +1,4 @@
-# micv2
-1. estudio
-2. trabajo
+# Mi CV
+1. estudioingenieria mecanica en Utec
+2. llevo el curso de introduccion a la ciencia de la computacion 
+
